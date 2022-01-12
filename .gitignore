@@ -1,0 +1,8 @@
+
+*.o
+*.swp
+.DS_Store
+main.c
+printfTester
+*.out
+*.a
